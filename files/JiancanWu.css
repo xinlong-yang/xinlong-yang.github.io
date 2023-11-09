@@ -17,7 +17,7 @@ H1 {
 	FONT-SIZE: 30px; MARGIN: 0px; DISPLAY: inline
 }
 H2 {
-	FONT-SIZE: 24px; PADDING-TOP: 15px; display:inline-block;   
+	FONT-SIZE: 20px; PADDING-TOP: 15px; display:inline-block;   
 }
 H3 {
 	DISPLAY: bold
@@ -26,7 +26,7 @@ P {
 	MARGIN: 10px 40px 10px 10px
 }
 TABLE {
-	MARGIN-BOTTOM: 10px; FONT-SIZE: 25px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 680px; BACKGROUND-COLOR: #f6fbfe
+	MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 680px; BACKGROUND-COLOR: #f6fbfe
 }
 .title {
 	FONT-WEIGHT: bold
@@ -89,7 +89,7 @@ A.thumbnail:hover {
 	MARGIN-LEFT: auto; DISPLAY: block; MARGIN-RIGHT: auto
 }
 #news {
-	FONT-SIZE: 15pt; BACKGROUND: #eee; FLOAT: right; PADDING-BOTTOM: 15px; PADDING-TOP: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; MARGIN-TOP: 0px; WIDTH: 200px
+	FONT-SIZE: 13pt; BACKGROUND: #eee; FLOAT: right; PADDING-BOTTOM: 15px; PADDING-TOP: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; MARGIN-TOP: 0px; WIDTH: 200px
 }
 #news .easylink {
 	FONT-SIZE: 0.8em; FONT-WEIGHT: normal
